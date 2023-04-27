@@ -36,8 +36,6 @@ def traits(races, classes, hair_color, eye_color, special_features):
     return character
 
 
-# print(traits(races, classes, hair_color, eye_color, special_features))
-
 print("You have points to assign to strength, charisma, intelligence, and magic abilities.")
 points = 35
 strength = 0
