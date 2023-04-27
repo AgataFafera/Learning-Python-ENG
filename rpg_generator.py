@@ -113,7 +113,7 @@ while True:
     else:
         print("invalid choice.")
 
-print("congrats! you're done designing " + name + '.')
+print ("congrats! you're done designing "+name+', a', gender, '.')
 print(traits(races, classes, hair_color, eye_color, special_features))
 print(name, "has", strength, "strength points,", charisma, "charisma points,", intelligence, "intelligence points, and",
       magic_abilities, "magic abilities points.") 
