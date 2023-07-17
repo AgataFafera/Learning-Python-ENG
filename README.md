@@ -7,4 +7,5 @@ The list of projects:
 3) A function that takes two sorted lists as input and merges them into a single sorted list. [two_sorted_list.py]
 4) A function that takes a dictionary as input and returns a new dictionary with the keys and values swapped. [dictionary_input.py]
 5) A function that converts a sentence to Pig Latin (move the first letter of each word to the end and add "ay"). [pig_latin.py]
+6) A fantasy name generator allowing user to generate a fictional name. [fantasy_name.py]
 
