@@ -10,4 +10,5 @@ The list of projects:
 6) A fantasy name generator allowing user to generate a fictional name. [fantasy_name.py]
 7) A program checking if a given number is prime number. [prime_numbs.py]
 8) A simple "Guess the number" game. [guess_number.py]
+9) A dice rolling simulator. [dice_roll.py]
 
