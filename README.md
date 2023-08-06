@@ -9,4 +9,5 @@ The list of projects:
 5) A function that converts a sentence to Pig Latin (move the first letter of each word to the end and add "ay"). [pig_latin.py]
 6) A fantasy name generator allowing user to generate a fictional name. [fantasy_name.py]
 7) A program checking if a given number is prime number. [prime_numbs.py]
+8) A simple "Guess the number" game. [guess_number.py]
 
