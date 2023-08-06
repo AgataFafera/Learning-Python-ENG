@@ -11,4 +11,5 @@ The list of projects:
 7) A program checking if a given number is prime number. [prime_numbs.py]
 8) A simple "Guess the number" game. [guess_number.py]
 9) A dice rolling simulator. [dice_roll.py]
+10) A simple BMI calculator. [bmi.py]
 
