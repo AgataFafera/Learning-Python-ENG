@@ -1,5 +1,5 @@
 # Learning Python
-This repo contains micro projects I've created to learn basic concepts of Python. My journey from beginner to advanced programmist.
+This repo contains micro projects I've created to learn basic concepts of Python. My journey from beginner to advanced programmer.
 
 The list of projects:
 1) To-Do-List program allowing user to add, view and remove certain tasks and assigned hours. [to_do_list.py]
