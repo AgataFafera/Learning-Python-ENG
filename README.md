@@ -12,6 +12,6 @@ The list of projects:
 8) A simple "Guess the number" game. [guess_number.py]
 9) A dice rolling simulator. [dice_roll.py]
 10) A simple BMI calculator. [bmi.py]
-11) A word guessing game with 3 levels of difficulty. [wordguess.py in Word Guess folder]
+11) A word guessing game with 3 levels of difficulty. [wordguess.py in Word Guess catalog]
 12) A file renamer allowing to rename multiple files at once. [renamer.py]
 
