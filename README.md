@@ -12,7 +12,7 @@ The list of projects:
 8) A simple "Guess the number" game. [guess_number.py]
 9) A dice rolling simulator. [dice_roll.py]
 10) A simple BMI calculator. [bmi.py]
-11) A word guessing game with 3 levels of difficulty. [wordguess.py in Word Guess catalog]
+11) A word guessing game with 3 levels of difficulty. [wordguess.py in Word Guess directory]
 12) A file renamer allowing to rename multiple files at once. [renamer.py]
 13) A rock-paper-scissors game with score. [rock_paper_scissors.py]
 14) A program checking if the given number is perfect (it's sum of dividers is equal to the number). [perfect_numbers.py]
