@@ -17,4 +17,5 @@ The list of projects:
 13) A rock-paper-scissors game with score. [rock_paper_scissors.py]
 14) A program checking if the given number is perfect (it's sum of dividers is equal to the number). [perfect_numbers.py]
 15) A random planet generator for science fiction stories. Simple GUI provided. [random_planet.py]
+16) A function removing duplicated values from given dictionary. [removing_dups.py]
 
