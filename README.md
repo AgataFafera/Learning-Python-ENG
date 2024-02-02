@@ -20,4 +20,5 @@ The list of projects:
 16) A function removing duplicated values from given dictionary. [removing_dups.py]
 17) A simple chatbot answering questions about Python. Easter eggs included. [chatbot.py]
 18) A function returing a difference between two strings. [difference_strings.py]
+19) A function checking if given key exists in given dictionary. [check_existence.py]
 
