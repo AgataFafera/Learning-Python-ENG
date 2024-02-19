@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
-
-
 # Write a function that checks whether a given key exists in a dictionary.
 
 students_id = {
@@ -42,10 +39,5 @@ def checking(my_dict, surname):
         print("There's no such surname in the dictionary.")
               
 checking(students_id, check_surname)
-
-
-# In[ ]:
-
-
 
 
