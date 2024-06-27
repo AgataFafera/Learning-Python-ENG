@@ -32,10 +32,8 @@ employee_dict = {
     'John Doe': 'EMP001'
 }
 
-print(remove_duplicates(employee_dict))  #Call the function with the provided dictionary and print the result
+print(remove_duplicates(employee_dict))  # Call the function with the provided dictionary and print the result
 
-
-# In[ ]:
 
 
 
