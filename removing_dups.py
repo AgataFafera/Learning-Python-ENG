@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 # Declare a function taking a dictionary as an argument
 def remove_duplicates(input_dict):
     unique_dict = {}  # Create an empty dictionary to store unique key-value pairs
