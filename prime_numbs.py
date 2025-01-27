@@ -1,4 +1,4 @@
-ef is_prime(num):
+def is_prime(num):
     if num == 1:
         return False
     elif num < 1:
